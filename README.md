@@ -37,7 +37,7 @@ x64 jackpot.prg
 
 ## Getting it off the tape
 
-I bought a Renkforce RF-CP-170 USB audio casestte digitizer. Looks like a cheap
+I bought a Renkforce RF-CP-170 USB audio cassette digitizer. Looks like a cheap
 walkman with a mini USB connector, shows up as a USB soundcard in Linux, no extra
 software needed.
 
