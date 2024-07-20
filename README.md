@@ -77,3 +77,16 @@ with tools that can extract the data and convert it to ASCII characters.
 $ c1541 -attach jackpot.diskimage.d64 -extract
 $ petcat jackpot > jackpot.bas
 ```
+
+
+```mermaid
+flowchart TB
+    Cassette-->|"Renkforce RF-CP-170"|Audacity
+    Audacity-->wav[".wav file"]
+    wav-->|ubercasette|tap[".tap file"]
+    tap-->|LOAD|VICE
+    VICE-->|SAVE|d64[".d64 disk image file"]
+    d64-->|"c1541 extract"|prg[".prg file"]
+    prg-->|petcat|ascii["ASCII text file"]
+    ascii-->GitHub
+```
