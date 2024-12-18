@@ -8,9 +8,8 @@ Copyright 1996
 ## What is this
 
 I ran into a cassette at my parent's house. Based on the label it contained a
-single COMMODORE 64 program I wrote long ago. As a 9 year old. I'm guessing the
+single COMMODORE 64 program I wrote long ago. As a 9 years old. I'm guessing the
 age based on the music that is on it next to the program.
-
 
 I'm pretty sure I wrote this with pen and paper then typed it in.
 
